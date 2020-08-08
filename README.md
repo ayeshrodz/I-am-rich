@@ -1,6 +1,6 @@
-# i_am_rich
+# I Am Rich
 
-A new Flutter application.
+A new Flutter application created based on an Online learning course towards flutter excellence.
 
 ## Getting Started
 
